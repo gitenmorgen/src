@@ -1,6 +1,6 @@
 #include  <stdio.h>
 
-int main(void)
+!int main(void)
 {
 	char ch;
 	printf("Podaj kod ASCII (np 65):");
